@@ -1,0 +1,4 @@
+1- open build folder
+2- open Desktop_Qt_6_7_0_MinGW_64_bit-Release
+3- open release
+4- QtTest.exe
